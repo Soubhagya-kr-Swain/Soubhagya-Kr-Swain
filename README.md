@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Soubhagya 👋  <br>I'm a Computer Applications student currently pursuing my MCA, with a strong interest in Data Science, Machine Learning, and full-stack development.<br><br>I enjoy building practical projects that solve real-world problems — from an ambulance booking system using the MERN stack to predictive models for automotive sales.<br><br>💻 Tech Stack:<br>- Python, Pandas<br>- Machine Learning & Data Analysis<br>- Backend Development<br><br>🚀 Currently:<br>- Improving my skills in AI & ML<br>- Building scalable full-stack applications<br>- Preparing for opportunities in Data Science roles<br><br>📌 Goal:<br>To become a skilled Data Scientist / ML Engineer and work on impactful, real-world problems.
 
 
